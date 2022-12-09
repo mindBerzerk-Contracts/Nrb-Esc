@@ -158,4 +158,3 @@ _Google Lighthouse/Page Insights report sample_
 ![alt text](https://i.imgur.com/mFXY8Zb.png)
 
 #### Questions?
-
